@@ -1,7 +1,7 @@
 .header{
 	background-image: url("header-bg.jpg");
 	width : 900px;
-	height: 120px;
+	min-height: 120px;
 	margin :0 auto;
 
 
@@ -54,15 +54,14 @@ img{
 	width : 900px;
 	height: 400px;
 	margin :0 auto;
-	
+	padding: :5px;
 }
-.subc{
-	background: #fff;
-	width : 290px;
+.c1{
+	background-color: #fff;
+	width : 286px;
 	height: 380px;
-	border-radius: 10px;
 	float:left;
-	margin:5px;
+	margin-right:5px;
 	background-image: url("golden.png");
 	
 }
