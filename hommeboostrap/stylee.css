@@ -1,0 +1,67 @@
+.header{
+	background-image: url("header-bg.jpg");
+	width : 900px;
+	min-height: 120px;
+	margin :0 auto;
+
+
+}
+p{
+	text-align: center;
+}
+img{
+	height:100px;
+	width:100px;
+}
+.header h1 {
+	text-align: center;
+	border-radius: 10px;
+	color:#fff;
+
+}
+.header small {
+		font-size: 50%;
+		color:#fff;
+		font-family:arial;
+}
+
+.menu{
+	background: #333;
+	width : 900px;
+	height: 40px;
+	margin :0 auto;
+	border-top: 1px solid #000;
+	text-align: center;
+}
+.menu ul li{
+	display:inline;
+
+	
+}
+.menu ul li a {
+	margin :0 20px;
+	color: #fff;
+	font-family: arial;
+	text-decoration: none;
+
+}
+.menu ul li a:hover{
+	color:#ffff00;
+	border-bottom: 2px #000;
+}
+.content{
+	background: #999;
+	width : 900px;
+	height: 400px;
+	margin :0 auto;
+	padding: :5px;
+}
+.c1{
+	background-color: #fff;
+	width : 286px;
+	height: 380px;
+	float:left;
+	margin-right:5px;
+	background-image: url("golden.png");
+	
+}
